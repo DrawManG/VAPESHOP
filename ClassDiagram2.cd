@@ -1,0 +1,302 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="VAPESHOP.aftorizat" Collapsed="true">
+    <Position X="8.75" Y="0.5" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>SUrAwBmhJCEREFgJABSgxIgSMMF5QUgBVHQsV4FgEAU=</HashCode>
+      <FileName>aftorizat.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VAPESHOP.CODE_DECODE" Collapsed="true">
+    <Position X="11.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>CODE_DECODE.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VAPESHOP.Connection_Form" Collapsed="true">
+    <Position X="7" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAAAAAAACAAAAAQAACAAAACAAAYAAAAECAAAAAAAAA=</HashCode>
+      <FileName>Connection_Form.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VAPESHOP.ConnectionClass" Collapsed="true">
+    <Position X="5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABBAAAA=</HashCode>
+      <FileName>ConnectionClass.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VAPESHOP.ConnectiosP" Collapsed="true">
+    <Position X="2.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAAAACAEAACAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ConnectiosP.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VAPESHOP.create_jidk" Collapsed="true">
+    <Position X="1.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQgAADBACAgABEQAACAAAYCAAAYIAAAAGAQAQAACAA=</HashCode>
+      <FileName>create_jidk.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VAPESHOP.ghost_menu" Collapsed="true">
+    <Position X="9.75" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACQAAAABACAAABIBAACAAAACAMwTAAAggCAZQQAAAAA=</HashCode>
+      <FileName>ghost_menu.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VAPESHOP.Jidkosti" Collapsed="true">
+    <Position X="3.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACACAAAAAACAAAACAAiIAAAAEMBAAAAAAIM=</HashCode>
+      <FileName>Jidkosti.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VAPESHOP.marketing" Collapsed="true">
+    <Position X="5.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAQAAAAAACAAABAAAACAAAACAAAAIAAAAAAQAQAAAAA=</HashCode>
+      <FileName>marketing.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VAPESHOP.MenuForm" Collapsed="true">
+    <Position X="7.5" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ADwAAARBASAAABIBAcSgAACCAMQ7OAIgwHBfQQAERAA=</HashCode>
+      <FileName>Menu.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VAPESHOP.otdel_kadrov" Collapsed="true">
+    <Position X="13.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAAAACAAAACAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>otdel_kadrov.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VAPESHOP.Print" Collapsed="true">
+    <Position X="11.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Print.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VAPESHOP.prodaja_tovara" Collapsed="true">
+    <Position X="7.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACgABAQBASAAABSIAACAQAATBAAYAAAAEEDQAQCMBAQ=</HashCode>
+      <FileName>prodaja_tovara.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VAPESHOP.prodavci" Collapsed="true">
+    <Position X="11.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAABCACAQAAAACAACACQAiIAAAAEEAAAAABAAA=</HashCode>
+      <FileName>prodavci.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VAPESHOP.Program" Collapsed="true">
+    <Position X="1.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VAPESHOP.Setting" Collapsed="true">
+    <Position X="21.25" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAAAACAAAACAAAIAQAIAEAAAQAAAAA=</HashCode>
+      <FileName>Setting.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VAPESHOP.Uchet_na_cklade" Collapsed="true">
+    <Position X="9.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABCAAAAAACAAAAAAAECAAAASIAiIAAgAEEAIAAAAIEA=</HashCode>
+      <FileName>Uchet_na_cklade.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VAPESHOP.VapeShopDataSet" Collapsed="true">
+    <Position X="15.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>Y1AFoFQIA+MACRZjFChQQ6EPAAgLSHygDpmAQMERTxA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VAPESHOP.XML_CODE" Collapsed="true">
+    <Position X="13.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAECAAAAAAAAAAAAAAAAIAAAAAAAAAAAAABA=</HashCode>
+      <FileName>XML CODE.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VAPESHOP.XML_CLOBAL" Collapsed="true">
+    <Position X="17.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>XML_CLOBAL.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VAPESHOP.zakaz_jidkosti" Collapsed="true">
+    <Position X="15.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAgAAACAQAAAAAAKgAAAGIQqsIACAEMAgAQFAQAA=</HashCode>
+      <FileName>zakaz_jidkosti.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VAPESHOP.zakupka" Collapsed="true">
+    <Position X="19.25" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAAAACAAAACAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>zakupka.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VAPESHOP.zakupka_postavshik" Collapsed="true">
+    <Position X="17.25" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAgQAAABACAgAIAAAACAAAACAEA4EABAAHAYAQAEAAA=</HashCode>
+      <FileName>zakupka_postavshik.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VAPESHOP.Properties.Resources" Collapsed="true">
+    <Position X="19.25" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAABEAAAAQAAAAAAAAAAAAAAAIA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VAPESHOP.Properties.Settings" Collapsed="true">
+    <Position X="21.25" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAgAAAAAAAAAIAQAAAABAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VAPESHOP.VapeShopDataSetTableAdapters.KLientsTableAdapter" Collapsed="true">
+    <Position X="9.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EASAAGAAEAAAAAcAIAAAAAAAACEICAAAAAAAAAAABBA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VAPESHOP.VapeShopDataSetTableAdapters.KuriersTableAdapter" Collapsed="true">
+    <Position X="7.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EASAAGAAEAAAAAcAIAAAAAAAACEICAAAAAAAAAAABBA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VAPESHOP.VapeShopDataSetTableAdapters.MarketinggTableAdapter" Collapsed="true">
+    <Position X="5.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EASAAGAAEAAAAAcAIAAAAAAAACEICAAAAAAAAAAABBA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VAPESHOP.VapeShopDataSetTableAdapters.Otdel_KadrowTableAdapter" Collapsed="true">
+    <Position X="13.5" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EASAAGAAEAAAAAcAIAAAAAAAACEICAAAAAAAAAAABBA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VAPESHOP.VapeShopDataSetTableAdapters.OTziviTableAdapter" Collapsed="true">
+    <Position X="5.5" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EASAAGAAEAAAAAcAIAAAAAAAACEICAAAAAAAAAAABBA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VAPESHOP.VapeShopDataSetTableAdapters.Pokupka_sostavlaushei_JidkostiTableAdapter" Collapsed="true">
+    <Position X="7.5" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EASAAGAAEAAAAAcAIAAAAAAAACEICAAAAAAAAAAABBA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VAPESHOP.VapeShopDataSetTableAdapters.ProdavciTableAdapter" Collapsed="true">
+    <Position X="13.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EASAAGAAEAAAAAcAIAAAAAAAACEICAAAAAAAAAAABBA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VAPESHOP.VapeShopDataSetTableAdapters.proizvodstvа_gidkostiTableAdapter" Collapsed="true">
+    <Position X="1.5" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EASAAGAAEAAAAAcAIAAAAAAAACEICAAAAAAAAAAABBA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VAPESHOP.VapeShopDataSetTableAdapters.ReklamaTableAdapter" Collapsed="true">
+    <Position X="9.5" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EASAAGAAEAAAAAcAIAAAAAAAACEICAAAAAAAAAAABBA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VAPESHOP.VapeShopDataSetTableAdapters.SkidkaTableAdapter" Collapsed="true">
+    <Position X="3.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EASAAGAAEAAAAAcAIAAAAAAAACEICAAAAAAAAAAABBA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VAPESHOP.VapeShopDataSetTableAdapters.Sotrudniki_proizvodstva_jidkostyTableAdapter" Collapsed="true">
+    <Position X="11.5" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EASAAGAAEAAAAAcAIAAAAAAAACEICAAAAAAAAAAABBA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VAPESHOP.VapeShopDataSetTableAdapters.TovarTableAdapter" Collapsed="true">
+    <Position X="19.25" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EASAAGAAEAAAAAcAIAAAAAAAACEICAAAAAAAAAAABBA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VAPESHOP.VapeShopDataSetTableAdapters.Uchet_d_TableAdapter" Collapsed="true">
+    <Position X="15.5" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EASAAGAAEAAAAAcAIAAAAAAAACEICAAAAAAAAAAABBA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VAPESHOP.VapeShopDataSetTableAdapters.VaрeShopTableAdapter" Collapsed="true">
+    <Position X="1.5" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EASAAGAAEAAAAAcAIAAAAAAAACEICAAAAAAAAAAABBA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VAPESHOP.VapeShopDataSetTableAdapters.Vibor_TovaraTableAdapter" Collapsed="true">
+    <Position X="15.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EASAAGAAEAAAAAcAIAAAAAAAACEICAAAAAAAAAAABBA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VAPESHOP.VapeShopDataSetTableAdapters.VIDTableAdapter" Collapsed="true">
+    <Position X="15.5" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EASAAGAAEAAAAAcAIAAAAAAAACEICAAAAAAAAAAABBA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VAPESHOP.VapeShopDataSetTableAdapters.Zaiavlenie_o_pokupkeTableAdapter" Collapsed="true">
+    <Position X="17.25" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EASAAGAAEAAAAAcAIAAAAAAAACEICAAAAAAAAAAABBA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VAPESHOP.VapeShopDataSetTableAdapters.Zakaz_probiTableAdapter" Collapsed="true">
+    <Position X="3.5" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EASAAGAAEAAAAAcAIAAAAAAAACEICAAAAAAAAAAABBA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VAPESHOP.VapeShopDataSetTableAdapters.КlientTableAdapter" Collapsed="true">
+    <Position X="11.75" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EASAAGAAEAAAAAcAIAAAAAAAACEICAAAAAAAAAAABBA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VAPESHOP.VapeShopDataSetTableAdapters.QueriesTableAdapter" Collapsed="true">
+    <Position X="17.25" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAIBQPQjQAEgEAAiMEDCAExAQASKJYAyJSAwQAiIEAI=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VAPESHOP.VapeShopDataSetTableAdapters.TableAdapterManager" Collapsed="true">
+    <Position X="15.5" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AVYAASIAggBAJQExSioBMCggAKAyiAIAQAwAAEEEjAU=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
